@@ -1,2 +1,2 @@
-# 30DaysWithPython
+# 30DaysofPython
 I go through the python programming language, building projects in 30 days.
